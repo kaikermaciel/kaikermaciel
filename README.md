@@ -1,5 +1,5 @@
 <h1>
-Sou Kaike Maciel, estudante de Ciência da Computação, apaixonada por tecnologia e em busca de mais e mais!
+Sou Kaike Maciel, estudante de Ciência da Computação, apaixonado por tecnologia e em busca de mais e mais!
 </h1>
 
 <h2>🌐Social Media:</h2>
