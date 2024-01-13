@@ -1,34 +1,21 @@
-<h1>
-Sou Kaike Maciel, estudante de Ciência da Computação, apaixonado por tecnologia e em busca de mais e mais!
-</h1>
+# 💫 About Me:
+🔭 Graduando em Ciência da Computação - UFAM;<br>🤝 Disposto a ajudar com monitorias, tive inclusive experiências durante a graduação;<br>🌱 Ciência de Dados;<br>
 
-<h2>🌐Social Media:</h2>
 
-<div align="center>
-<a href= "https://instagram.com/k.m4ciel_" target ="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaikermaciel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikermaciel) 
 
-<h2>💻Tech stuff:</h2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kaikermaciel&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaikermaciel&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikermaciel&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align= "center>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a> 
-<a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaikermaciel&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaikermaciel&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikermaciel&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaikermaciel&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kaikermaciel&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaikermaciel&icon=9&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kaikermaciel&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
