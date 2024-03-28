@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Graduando em Ciência da Computação - UFAM;<br>🤝 Disposto a ajudar com monitorias, tive inclusive experiências durante a graduação;<br>🌱 Ciência de Dados;<br>
+🔭 Graduando em Ciência da Computação - UFAM;<br>🤝 Disposto a ajudar sempre!;<br>
 
 
 ## 🌐 Socials:
