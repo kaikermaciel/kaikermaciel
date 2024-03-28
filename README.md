@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Graduando em Ciência da Computação - UFAM;<br>🤝 Disposto a ajudar sempre!;<br>
 
 
