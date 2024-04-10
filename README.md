@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Graduando em Ciência da Computação pela UFAM<br>🌱 Atualmente desenvolvendo projetos em ciência de dados
+🔭 Graduando em Ciência da Computação pela UFAM<br>🌱 Atualmente desenvolvendo projetos em ciência de dados e Machine Learning
 
 
 ## 🌐 Socials:
