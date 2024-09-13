@@ -14,14 +14,14 @@ Student of computer science with experience in Machine Learning research through
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikermaciel) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/kaikermaciel)
 
-# 💻 Languages:
+## 💻 Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-# 📜 Tech Stack: 
+## 📜 Tech Stack: 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
@@ -30,16 +30,17 @@ Student of computer science with experience in Machine Learning research through
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-# IDE:
+## IDE:
 
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=kaikermaciel&theme=gotham&hide_border=true)
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikermaciel&hide_progress=true&theme=gotham&hide_border=true)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kaikermaciel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <br> <br>
 [![](https://visitcount.itsvg.in/api?id=kaikermaciel&icon=6&color=6)](https://visitcount.itsvg.in)
