@@ -39,7 +39,7 @@ Student of computer science with experience in Machine Learning research through
 
 ## 📊 GitHub Stats:
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=kaikermaciel&theme=gotham&hide_border=true) <br>
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikermaciel&hide_progress=true&theme=gotham&hide_border=true)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikermaciel&hide_progress=true&theme=gotham&hide_border=true) <br>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kaikermaciel&show_icons=false&theme=gotham&rank_icon=github#gh-dark-mode-only)]
 
 <br> <br>
