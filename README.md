@@ -43,7 +43,7 @@ Student of computer science with experience in Machine Learning research through
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikermaciel&hide_progress=true&theme=gotham&hide_border=true" />
 </a>
 
-
+<br>
 [![](https://visitcount.itsvg.in/api?id=kaikermaciel&icon=6&color=6)](https://visitcount.itsvg.in)
 
 # Extras:
