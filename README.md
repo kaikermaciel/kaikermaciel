@@ -38,6 +38,10 @@ Student of computer science with experience in Machine Learning research through
 
 
 # 📊 GitHub Stats:
+<a href= "https://github.com/kaikermaciel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaikermaciel&repo=github-readme-stats" />
+</a>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaikermaciel&theme=gotham&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikermaciel&hide_progress=true&theme=gotham&hide_border=true)
 ---
