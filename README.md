@@ -3,7 +3,7 @@
 Student of computer science with experience in Web development. Also interest in AI research. I'm currently getting interest with quantum computing.
 
 🧑🏽‍💻 Computer Science - Federal University of Amazonas. <br>
-👾 I'm familiar with programming languages such as Python, C/C++ and Java. <br>
+👾 I'm familiar with programming languages such as Python, Java, JavaScript and TypeScript. <br>
 😎 I'm enrolled in Fullstack web development course at UFAM in partneship with Motorola - Web Academy! <br>
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJhcm1iZTdzbmdzMDZiZGJ6aHpuOWQycW5jcGJzejk4bDY2cW1wOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B1CrvUCoMxhy8/giphy.gif)
