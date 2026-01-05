@@ -1,6 +1,6 @@
 # Hello, My name's Kaike 🤓🤘🏽
 
-Student of computer science with experience in Web development. Also interest in AI research. I'm currently getting interest with quantum computing.
+Student of computer science with experience in Web development. Also interest in AI research.
 
 🧑🏽‍💻 Computer Science - Federal University of Amazonas. <br>
 👾 I'm familiar with programming languages such as Python, Java, JavaScript and TypeScript. <br>
